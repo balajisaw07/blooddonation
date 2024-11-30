@@ -2,9 +2,6 @@
 
 HemoCell is a web application built with ReactJS, Node.js, MySQL, and Tailwind CSS. It is designed to facilitate blood donations, requests, and blood drives, as well as donations for the organization.
 
-## Mockup
-
-https://github.com/moazamdev/alter-ui/assets/89134865/5b5d4561-260b-440d-9d9f-adde3ed9f6aa
 
 ## Table of Contents
 
@@ -41,15 +38,13 @@ HemoCell addresses the following solutions:
 - Encouraging blood drives and donations
 - Providing an easy-to-use platform for managing blood-related activities
 
-## Developer
 
-HemoCell was developed by [Moazam Ali](https://www.linkedin.com/in/moazamdev/), a software engineer with experience in web development.
 
 ## Instructions to Run
 
 To run HemoCell locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/moazamdev/hemocell.git`
+1. Clone the repository: `git clone https://github.com/balajisaw07/blooddonation.git`
 2. Install dependencies: `npm install`
 3. Start the server: `npm start` or `npm run dev`
 
